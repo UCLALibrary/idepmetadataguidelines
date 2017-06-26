@@ -1,0 +1,7 @@
+site_name: IDEP Metadata Guidelines
+pages:
+  - Home: index.md
+  - Glossary: glossary.md
+  - "Metadata Template": template.md
+  - "Descriptive Terms": terms.md
+theme: readthedocs
